@@ -1,13 +1,21 @@
+MIT License
+
 Copyright (c) 2026 王富贵26
-All Rights Reserved.
 
-版权所有，保留所有权利。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-本项目允许任何人用于个人学习、研究与测试，
-但未经版权所有者书面明确许可，任何个人或组织不得：
-1. 将本项目的代码、模型、算法用于任何商业目的；
-2. 将本项目内容用于学术论文、研究成果的发表或引用；
-3. 基于本项目的算法、模型或技术方案申请专利；
-4. 复制、搬运、转载、分发本项目至其他平台。
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-侵权必究。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
